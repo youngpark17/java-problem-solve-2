@@ -1,5 +1,8 @@
 # 인텔리제이 자바 알고리즘
 
+[백준 9466 텀프로젝트 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/b9f3916854e9132de1ea7278df241bfbcbaebd7b)
+dfs 싸이클판별
+
 [백준 9251 LCS(Sequence)](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/2954e4f80b97a0801da6ad3af489873a050ab47a)
 dp
 
