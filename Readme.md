@@ -1,5 +1,8 @@
 # 인텔리제이 자바 알고리즘
 
+[백준 7662 이중 우선순위 큐 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/4297a9d3c018b8e5477207449322e030364f5135)
+treemap
+
 [백준 1916 최소비용 구하기 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/aee064694047ee51528265bd08900081e8d5bafa)
 다엑스트라
 
