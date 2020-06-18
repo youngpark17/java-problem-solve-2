@@ -1,5 +1,8 @@
 # 인텔리제이 자바 알고리즘
 
+[백준 19236 청소년 상어 골드3](https://github.com/youngpark17/Algorithm_Java_InteliJ/blob/master/BOJ_19236/src/Main.java)
+시뮬레이션
+
 [백준 7662 이중 우선순위 큐 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/4297a9d3c018b8e5477207449322e030364f5135)
 treemap
 
