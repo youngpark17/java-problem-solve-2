@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 19238 스타트 택시 골드4](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/402a66da98aeb406a626db7c444ea73fe3c14731)
+bfs
+
 [백준 19237 어른 상어 골드4](https://github.com/youngpark17/Algorithm_Java_InteliJ/blob/master/BOJ_19237/src/Main.java)
 시뮬레이션
 
