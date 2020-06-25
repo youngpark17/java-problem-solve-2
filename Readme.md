@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 1068 트리 실버1](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/cb85986953b6715854549c747a5ecff5fd495a9d)
+dfs
+
 [백준 19238 스타트 택시 골드4](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/402a66da98aeb406a626db7c444ea73fe3c14731)
 bfs
 
