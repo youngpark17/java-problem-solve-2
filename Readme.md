@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 5567 결혼식 실버1](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/202e0eb05cc08f7e7bbb9688830bbcc0c7c7f898)
+bfs
+
 [백준 1068 트리 실버1](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/cb85986953b6715854549c747a5ecff5fd495a9d)
 dfs
 
