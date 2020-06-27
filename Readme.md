@@ -1,4 +1,6 @@
 # 인텔리제이 자바 알고리즘
+[백준 1600 말이 되고픈 원숭이 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/0762757d3dc31f3a394115132ab946e1b67ccdeb)
+
 [백준 5567 결혼식 실버1](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/202e0eb05cc08f7e7bbb9688830bbcc0c7c7f898)
 bfs
 
