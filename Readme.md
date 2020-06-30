@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 1074 Z 실버1](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/6d03710b75b58e8b3bc6711788e8948e89942bee)
+분할정복
+
 [프로그래머스 베스트 앨범 레벨3](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/cd94544ee07ff673545d95c1286c496981b1c4fa)
 해시, 정렬
 
