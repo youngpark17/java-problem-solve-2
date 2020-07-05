@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 17298 오큰수 골드4](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/becb9e3f8fdf54d510e5e8e19ab928d230b2b283)
+스택
+
 [백준 1074 Z 실버1](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/6d03710b75b58e8b3bc6711788e8948e89942bee)
 분할정복
 
