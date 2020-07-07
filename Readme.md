@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 2812 크게 만들기 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/e3efcea225409d18995db02efa04045d2c4e6138)
+분할정복 스택
+
 [백준 9019 DSLR 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/7b870261ca89995335c28761b700c883c2ea0e57)
 bfs
 
