@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 1238 파티 골드3](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/6453859b50ff9dc0fe054fcffa60943644761bc1)
+플로이드 와샬, 다엑스트라
+
 [백준 2812 크게 만들기 골드5](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/e3efcea225409d18995db02efa04045d2c4e6138)
 분할정복 스택
 
