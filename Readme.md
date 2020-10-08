@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 10819 차이를 최대로 실버2](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/7cfebfc49da024b087dedc36e001f9a2fb0be816)
+브루트 포스
+
 [백준 1238 파티 골드3](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/6453859b50ff9dc0fe054fcffa60943644761bc1)
 플로이드 와샬, 다엑스트라
 
