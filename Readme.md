@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 20055 컨베이어 벨트위의 로봇 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/28bbb31e85ce8e03259ab50a43e60659917bd50b)
+시뮬레이션
+
 [백준 10819 차이를 최대로 실버2](https://github.com/youngpark17/Algorithm_Java_InteliJ/commit/7cfebfc49da024b087dedc36e001f9a2fb0be816)
 브루트 포스
 
