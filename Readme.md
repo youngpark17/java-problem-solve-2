@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 2870 수학문제 실버 5 정규식 도전기 1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/719d4ede1a85f7b0aee6e877efc14d814e0fa535)
+정규식
+
 [백준 20056 마법사상어와 파이어볼 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/258b400f38a50f66b2bbb8426742228e60d6d30d)
 시뮬레이션
 
