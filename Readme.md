@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 19844  단어 개수 세기 실버 4 정규식 도전기](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/778bc33c21ee4f5c904b5e67f4b1305cab802ef7)
+정규식
+
 [백준 9342 정규식 도전기 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/cf635e65eb28864e614d71c895b0a4b1ca5040ee)
 정규식
 
