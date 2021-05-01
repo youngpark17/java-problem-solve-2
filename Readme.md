@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 9342 정규식 도전기 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/cf635e65eb28864e614d71c895b0a4b1ca5040ee)
+정규식
+
 [백준 14405 정규식 도전기 3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/3a6192d593da49972fd5890bf089fcffbb82643c)
 정규식
 
