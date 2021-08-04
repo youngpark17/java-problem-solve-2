@@ -22,6 +22,11 @@
     <list default="true" id="a0c8a475-5354-4986-9114-ed71616ee553" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_1068/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_1068/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_19236/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_19236/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_19236/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_19236/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_19236/Xy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_19236/Xy.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1dUNee9MXvcKVzLlKzcEfktbsY2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -52,24 +65,35 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/BOJ_2812/src/Main.java" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.JAVA_MODULE" value="azul-11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="라이브러리" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Main (4)" />
+      <command value="Main" />
+    </option>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Main (6)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BOJ_17298" />
+      <module name="temp2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BOJ_2812" />
+      <module name="BOJ_20057" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,25 +112,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BOJ_20058" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BOJ_1238" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="temp3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="애플리케이션.Main (6)" />
+        <item itemvalue="애플리케이션.Main (3)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
   </component>
@@ -147,161 +189,95 @@
       <workItem from="1594100626264" duration="13321000" />
       <workItem from="1594128603092" duration="2568000" />
       <workItem from="1602153050143" duration="1762000" />
+      <workItem from="1624695520334" duration="832000" />
+      <workItem from="1624697088983" duration="7737000" />
+      <workItem from="1625372145312" duration="1046000" />
+      <workItem from="1625374212283" duration="9864000" />
+      <workItem from="1626871852735" duration="1198000" />
+      <workItem from="1627201387484" duration="15716000" />
+      <workItem from="1627984900695" duration="18019000" />
     </task>
+    <task id="LOCAL-00001" summary="docs: update readme.md">
+      <created>1627394431498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627394431498</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: update Readme.md">
+      <created>1628074647350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628074647350</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="458" y="27" key="#Main" timestamp="1594129348659">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="458" y="27" key="#Main/0.0.1536.824@0.0.1536.824" timestamp="1594129348659" />
-    <state x="458" y="27" key="#Main_(2)" timestamp="1593829430142">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="458" y="27" key="#Main_(2)/0.0.1536.824@0.0.1536.824" timestamp="1593829430142" />
-    <state x="249" y="0" key="#Project_Structure" timestamp="1593772441831">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593772441831" />
-    <state x="458" y="27" width="620" height="769" key="#Solution" timestamp="1593829385327">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="458" y="27" width="620" height="769" key="#Solution/0.0.1536.824@0.0.1536.824" timestamp="1593829385327" />
-    <state x="458" y="27" key="#Solution_(1)" timestamp="1593829146995">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="458" y="27" key="#Solution_(1)/0.0.1536.824@0.0.1536.824" timestamp="1593829146995" />
-    <state x="399" y="138" key="#com.intellij.ide.util.ExportDialog" timestamp="1602153607036">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="399" y="138" key="#com.intellij.ide.util.ExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1602153607036" />
-    <state x="632" y="309" key="Github.ShareDialog" timestamp="1594009291822">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="632" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594009291822" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1602155380894">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602155380894" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1602155380894">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602155380894" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1602155380894">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602155380894" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1602155380894">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602155380894" />
-    <state width="1493" height="272" key="GridCell.Tab.1.bottom" timestamp="1594123862327">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="272" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594123862327" />
-    <state width="1493" height="272" key="GridCell.Tab.1.center" timestamp="1594123862327">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="272" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594123862327" />
-    <state width="1493" height="272" key="GridCell.Tab.1.left" timestamp="1594123862327">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="272" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594123862327" />
-    <state width="1493" height="272" key="GridCell.Tab.1.right" timestamp="1594123862327">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="272" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594123862327" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1602153681695">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602153681695" />
-    <state x="474" y="144" width="587" height="536" key="find.popup" timestamp="1594009356608">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="474" y="144" width="587" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1594009356608" />
-    <state x="180" y="22" key="new project wizard" timestamp="1602153121043">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="180" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602153121043" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594009278018">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594009278018" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: update readme.md" />
+    <MESSAGE value="docs: update Readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: update Readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_19236/src/Main.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/temp2/src/Main.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_19236/src/Main.java</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/temp2/src/Main.java</url>
+          <line>20</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_19236/src/Main.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/BOJ_20058/src/Main.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_19238/src/Main.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_5567/src/Main.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_1074/src/Main.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programmers_불량 사용자/src/Solution.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programmers_불량 사용자/src/Solution.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_19237/src/Main.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ_9019/src/Main.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="map[1]" />
-      </configuration>
-    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
