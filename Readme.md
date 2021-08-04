@@ -1,4 +1,7 @@
 # 인텔리제이 자바 알고리즘
+[백준 20057  마법사 상어와 파이어스톰 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/0d40cf0a78f7dbc9810cb9c4500652e8ac577a26)
+시뮬레이션
+
 [백준 20057  마법사 상어와 토네이도 시뮬레이션](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a0ff75e63f8756984272db36256665df512c9ea6)
 시뮬레이션
 
