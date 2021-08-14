@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1926 그림](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/086fc70e6045ca04b82ba1e69817784371715d6e)
+dfs,bfs
+
 [백준 20057  마법사 상어와 파이어스톰 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/0d40cf0a78f7dbc9810cb9c4500652e8ac577a26)
 시뮬레이션
 
