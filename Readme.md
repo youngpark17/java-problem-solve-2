@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1912 연속합 실버3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/785221da028a88db0c3108c1e07e1f81c462efa7)
+DP
+
 [백준 5430 AC](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/72b86ddc2779aea48eb938740e10b49a6e3f0e19)
 자료구조
 
