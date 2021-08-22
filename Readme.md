@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 5430 AC](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/72b86ddc2779aea48eb938740e10b49a6e3f0e19)
+자료구조
+
 [백준 1926 그림](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/086fc70e6045ca04b82ba1e69817784371715d6e)
 dfs,bfs
 
