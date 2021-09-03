@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 21608 상어 초등학교 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/1a6b4814112ca6534eece9cbb5f221245f2621ea)
+구현
+
 [백준 1912 연속합 실버3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/785221da028a88db0c3108c1e07e1f81c462efa7)
 DP
 
