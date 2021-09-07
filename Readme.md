@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 14620 꽃길 실버2](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/c90fdf4b6b239a1f9944876e0f56330c70d6c07f)
+완전탐색
+
 [백준 11066 파일 합치기 골드3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/4da1a2e4a887f8184e2a467458b49e2698a3719d)
 DP
 
