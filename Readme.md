@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 2638 치즈 골드4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/24a22f66b33574b21d993a1de2030d27b7362e10)
+완전탐색
+
 [백준 14620 꽃길 실버2](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/c90fdf4b6b239a1f9944876e0f56330c70d6c07f)
 완전탐색
 
