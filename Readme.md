@@ -3,8 +3,11 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 11497 통나무 건너뛰기 실비1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/90495bc2a8b19002ae95125e935f425487f73b9c)
+그리디 알고리즘
+
 [백준 2293 동전 실비1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/d98f2d4f00f066df63d05552c4a1b7f83e9a8849)
-완전탐색
+동적계획법
 
 [백준 2638 치즈 골드4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/24a22f66b33574b21d993a1de2030d27b7362e10)
 완전탐색
