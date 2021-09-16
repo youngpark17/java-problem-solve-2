@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 15686 치킨게임 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/288cf7ed2aa42d44baa57dc8d89f69e92d40e699)
+완전탐색
+
 [백준 2583 영역 구하기 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/aadeaf9a58ef6b9f13a37381e22199283db0968a)
 투포인터
 
