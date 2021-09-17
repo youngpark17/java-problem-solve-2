@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1504 특정한 최단 경로](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/51fd08e1e26ca085ac35e03f852cbbd2fdb4daea)
+다엑스트라
+
 [백준 15686 치킨게임 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/288cf7ed2aa42d44baa57dc8d89f69e92d40e699)
 완전탐색
 
