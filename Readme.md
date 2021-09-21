@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 3671 산업 스파이의 편지 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/2111f5e8b496cb7669611f59fcd5590875a87160)
+다엑스트라
+
 [백준 15961 회전초밥 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/6ce9686654163137dcee9633d47e80e932577094)
 다엑스트라
 
