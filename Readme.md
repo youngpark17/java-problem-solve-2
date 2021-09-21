@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1240 노드 사이의 거리 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/29b0655e169b7153ebeead5f43d36bd18a28b027)
+bfs
+
 [백준 3671 산업 스파이의 편지 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/2111f5e8b496cb7669611f59fcd5590875a87160)
 다엑스트라
 
