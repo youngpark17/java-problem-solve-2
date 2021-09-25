@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1461 도서관 골드 5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/0e2881dffebbcd84f6182ebe000ed77d5561730a)
+그리디 알고리즘
+
 [백준 1240 노드 사이의 거리 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/29b0655e169b7153ebeead5f43d36bd18a28b027)
 bfs
 
