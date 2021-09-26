@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 16973 직사각형 탈출 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a6425c679184b8c53fa1a9c6b0e308e414333e10)
+bfs, 부분합
+
 [백준 10844 쉬운 계단 수 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/8b885b8f4cffb92dcb10aae188ff187ae28177c6)
 dp
 
