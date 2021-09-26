@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 10844 쉬운 계단 수 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/8b885b8f4cffb92dcb10aae188ff187ae28177c6)
+dp
+
 [백준 16562 친구비 골드3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/52365db9dfde72af5c04712db32a0f48af38f8d7)
 disjoint set
 
