@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1027 고층 건물 골드 4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/fba8f2e4e49ebe3c6ea8d110a8f116d9344c5753)
+기하학, 브루트 포스
+
 [백준 1461 도서관 골드 5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/0e2881dffebbcd84f6182ebe000ed77d5561730a)
 그리디 알고리즘
 
