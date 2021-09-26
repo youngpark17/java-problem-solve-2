@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 16562 친구비 골드3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/52365db9dfde72af5c04712db32a0f48af38f8d7)
+disjoint set
+
 [백준 11057 오르막수 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/691896cc1a8415f9a24966e1e4be016cea84726b)
 DP
 
