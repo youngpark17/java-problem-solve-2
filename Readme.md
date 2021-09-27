@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 11052 카드 구매하기 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/ebfeae6f5f822005e0296dc1351279d84768b68e)
+dp
+
 [백준 16973 직사각형 탈출 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a6425c679184b8c53fa1a9c6b0e308e414333e10)
 bfs, 부분합
 
