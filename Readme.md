@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1747 소수&팰린드롬 골드 5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/38a408f59ea40eb62f22d5674959b180134b8749)
+에라토스테네스, 완탐
+
 [백준 11052 카드 구매하기 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/ebfeae6f5f822005e0296dc1351279d84768b68e)
 dp
 
