@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 14466 소가 길을 건너간 이유 6 골드4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/9fbfd6ed51a42e7fb225ad4ebcd2f61bcc661c0a)
+완탐
+
 [백준 1747 소수&팰린드롬 골드 5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/38a408f59ea40eb62f22d5674959b180134b8749)
 에라토스테네스, 완탐
 
