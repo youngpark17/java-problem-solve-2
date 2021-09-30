@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c8a475-5354-4986-9114-ed71616ee553" name="Default Changelist" comment="docs: readme.md">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a0c8a475-5354-4986-9114-ed71616ee553" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_19236/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_19236/Fish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_19236/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_19236/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_19236/Xy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_19236/Xy.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +83,7 @@
       <command value="Solution" />
     </option>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main (1)">
+  <component name="RunManager" selected="애플리케이션.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="BOJ_14466" />
@@ -97,30 +91,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BOJ_13397" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BOJ_19951" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BOJ_2212" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="BOJ_1747" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Solution3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Solution2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Solution4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.Solution (1)" />
-      <item itemvalue="애플리케이션.Solution (2)" />
-      <item itemvalue="애플리케이션.Solution (3)" />
       <item itemvalue="애플리케이션.Main" />
       <item itemvalue="애플리케이션.Main (1)" />
+      <item itemvalue="애플리케이션.Main (2)" />
+      <item itemvalue="애플리케이션.Main (3)" />
+      <item itemvalue="애플리케이션.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main (4)" />
+        <item itemvalue="애플리케이션.Main (3)" />
+        <item itemvalue="애플리케이션.Main (2)" />
         <item itemvalue="애플리케이션.Main (1)" />
         <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.Solution (3)" />
-        <item itemvalue="애플리케이션.Solution (2)" />
-        <item itemvalue="애플리케이션.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +219,7 @@
       <workItem from="1632540256931" duration="44859000" />
       <workItem from="1632712316923" duration="17561000" />
       <workItem from="1632826553957" duration="2363000" />
-      <workItem from="1632920866040" duration="6295000" />
+      <workItem from="1632920866040" duration="13436000" />
     </task>
     <task id="LOCAL-00001" summary="docs: update readme.md">
       <created>1627394431498</created>
@@ -528,7 +522,42 @@
       <option name="project" value="LOCAL" />
       <updated>1632836505993</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="BOJ_14466 소가 길을 건너간 이유 6 골드4&#10;완탐">
+      <created>1632927386343</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1632927386343</updated>
+    </task>
+    <task id="LOCAL-00045" summary="docs: readme.md">
+      <created>1632927452262</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1632927452262</updated>
+    </task>
+    <task id="LOCAL-00046" summary="BOJ_19951 태상이의 훈련소 생활 실버1&#10;누적합">
+      <created>1633003763366</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1633003763366</updated>
+    </task>
+    <task id="LOCAL-00047" summary="docs: readme.md">
+      <created>1633003847479</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1633003847479</updated>
+    </task>
+    <task id="LOCAL-00048" summary="docs: add gitignore">
+      <created>1633004167625</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1633004167625</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,9 +596,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="docs: update Readme.md" />
-    <MESSAGE value="BOJ_11066 파일 합치기 골드3&#10;DP" />
-    <MESSAGE value="docs: readme" />
     <MESSAGE value="BOJ_14620 꽃길 실버2&#10;완전 탐색" />
     <MESSAGE value="BOJ_2638 치즈 골드4&#10;bfs" />
     <MESSAGE value="BOJ_2293 동전1 실버1&#10;동적계획법" />
@@ -589,10 +615,13 @@
     <MESSAGE value="BOJ_10844 쉬운 계단 수 실버1&#10;dp" />
     <MESSAGE value="BOJ_16973 직사각형 탈출 골드5&#10;bfs, 부분합" />
     <MESSAGE value="BOJ_11052 카드 구매하기&#10;실버1" />
-    <MESSAGE value="docs: readme.md" />
     <MESSAGE value="BOJ_1747 소수&amp;팰린드롬 골드4&#10;에라토스테네스, 완탐" />
     <MESSAGE value="docs: Readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Readme.md" />
+    <MESSAGE value="BOJ_14466 소가 길을 건너간 이유 6 골드4&#10;완탐" />
+    <MESSAGE value="BOJ_19951 태상이의 훈련소 생활 실버1&#10;누적합" />
+    <MESSAGE value="docs: readme.md" />
+    <MESSAGE value="docs: add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: add gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -740,8 +769,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/BOJ_14466/src/Main.java</url>
-          <line>51</line>
+          <line>79</line>
           <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOJ_13397/src/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOJ_19951/src/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="131" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
