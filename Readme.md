@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 19951 태상이의 훈련소 생활 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/59ef7c5f4848af3bc96807fe75825ff5c1705540)
+누적합
+
 [백준 14466 소가 길을 건너간 이유 6 골드4](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/9fbfd6ed51a42e7fb225ad4ebcd2f61bcc661c0a)
 완탐
 
