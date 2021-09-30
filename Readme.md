@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 2212 센서 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/b4f3e8ef437c21f05959028f7277ce1408252e0b)
+그리디
+
 [백준 19951 태상이의 훈련소 생활 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/59ef7c5f4848af3bc96807fe75825ff5c1705540)
 누적합
 
