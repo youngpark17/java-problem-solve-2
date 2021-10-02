@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 12904 A와 B 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/975d0a3210ff861368421d34df38a4964b7ca632)
+그리디,구현
+
 [백준 11055 가장 큰 증가 부분 수열 실버2](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/94078052ec147ba2e86ebee52de3f061444bbba0)
 dp
 
