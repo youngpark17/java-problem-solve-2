@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
-[백준 2559 수열 실버3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/c06a7a6ebd6bb080612d186b1a023edd0d139958)
+[백준 2559 수열 실버3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a6802db10c5df965f319ce75c01c7e312805c51b)
 누적합
 
 [백준 1911 흙길 보수하기 실버1](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/88e2e66d006beaecbffcda9526426435eec29acb)
