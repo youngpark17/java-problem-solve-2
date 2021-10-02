@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 11055 가장 큰 증가 부분 수열 실버2](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/94078052ec147ba2e86ebee52de3f061444bbba0)
+dp
+
 [백준 2559 수열 실버3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a6802db10c5df965f319ce75c01c7e312805c51b)
 누적합
 
