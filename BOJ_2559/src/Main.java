@@ -21,7 +21,7 @@ public class Main {
         }
 
         //answer = Math. max(dp[i+k]-dp[i])
-        int answer = 0;
+        int answer = Integer.MIN_VALUE;
         for (int i = k; i< n+1; i++) {
             int a= dp[i] - dp[i-k];
             answer = Math.max(answer,a);
