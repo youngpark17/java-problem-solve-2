@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 16509 장군 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/5d9c40c01c6ab1f2966576680f497236d0534cb0)
+bfs
+
 [백준 2631 줄세우기 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/245ae86045b41753673ddcdc6817639addb80270)
 dp
 
