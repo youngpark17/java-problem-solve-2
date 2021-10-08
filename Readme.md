@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 2631 줄세우기 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/245ae86045b41753673ddcdc6817639addb80270)
+dp
+
 [백준 17828 문자열 화폐 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/caddd6a84dc51b24c11af1aa0e18b13cbb6033f4)
 그리디 알고리즘
 
