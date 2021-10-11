@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1781 컵라면 골드2](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/d7a9e4278d42c19e2ed7ab691eadc1a352b4a9fc)
+그리디, 우선순위큐
+
 [백준 11085 군사이동 골드3](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/f9aca547c18997b89bc1bdda676331d1145be2e6)
 union-find
 
