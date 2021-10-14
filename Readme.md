@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[BOJ_17425 약수의 합 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a7ce9bd1aa9818f1ac4ac433f3b1e1a4a13817c6)
+누적합
+
 [백준 1781 컵라면 골드2](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/d7a9e4278d42c19e2ed7ab691eadc1a352b4a9fc)
 그리디, 우선순위큐
 
