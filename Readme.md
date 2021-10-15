@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[BOJ_20166 문자열 지옥에 빠진 호석 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/bb7d2de62e693fb0bbd2aaa4f01cd656b57f36c9)
+누적합
+
 [BOJ_17425 약수의 합 골드5](https://github.com/youngpark17/AlgorithmJavaInteliJ/commit/a7ce9bd1aa9818f1ac4ac433f3b1e1a4a13817c6)
 누적합
 
