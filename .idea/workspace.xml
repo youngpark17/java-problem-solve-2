@@ -19,10 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c8a475-5354-4986-9114-ed71616ee553" name="Default Changelist" comment="">
+    <list default="true" id="87a8f810-1c34-4a66-9d0f-69541ca7eb48" name="test3" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="882a70b6-6b52-46ba-81cd-37b5a4988d3c" name="BOJ_2559 수열 실버3 누적합" comment="" />
+    <list id="a0c8a475-5354-4986-9114-ed71616ee553" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-11.0.11/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1dUNee9MXvcKVzLlKzcEfktbsY2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -83,14 +88,7 @@
       <command value="Solution" />
     </option>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BOJ_14466" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="BOJ_13397" />
@@ -112,40 +110,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BOJ_1747" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Programmers_최고의 집합" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Programmers_불량 사용자" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.Main" />
-      <item itemvalue="애플리케이션.Main (1)" />
-      <item itemvalue="애플리케이션.Main (2)" />
-      <item itemvalue="애플리케이션.Main (3)" />
-      <item itemvalue="애플리케이션.Main (4)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main (4)" />
-        <item itemvalue="애플리케이션.Main (3)" />
-        <item itemvalue="애플리케이션.Main (2)" />
-        <item itemvalue="애플리케이션.Main (1)" />
-        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +220,7 @@
       <workItem from="1632712316923" duration="17561000" />
       <workItem from="1632826553957" duration="2363000" />
       <workItem from="1632920866040" duration="13436000" />
+      <workItem from="1646049473604" duration="8049000" />
     </task>
     <task id="LOCAL-00001" summary="docs: update readme.md">
       <created>1627394431498</created>
@@ -557,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633004167625</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Programmers_불량 사용자 Lv3&#10;구현">
+      <created>1646054545074</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1646054545074</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +604,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="BOJ_14620 꽃길 실버2&#10;완전 탐색" />
     <MESSAGE value="BOJ_2638 치즈 골드4&#10;bfs" />
     <MESSAGE value="BOJ_2293 동전1 실버1&#10;동적계획법" />
     <MESSAGE value="BOJ_11497 통나무 건너뛰기 실버1&#10;그리디" />
@@ -621,7 +628,8 @@
     <MESSAGE value="BOJ_19951 태상이의 훈련소 생활 실버1&#10;누적합" />
     <MESSAGE value="docs: readme.md" />
     <MESSAGE value="docs: add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: add gitignore" />
+    <MESSAGE value="Programmers_불량 사용자 Lv3&#10;구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers_불량 사용자 Lv3&#10;구현" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -782,6 +790,11 @@
           <line>25</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers_불량 사용자/src/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="11" />
@@ -801,7 +814,9 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AlgorithmJavaInteliJ$Main__3_.ic" NAME="Main (3) 커버리지 결과" MODIFIED="1632635724383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AlgorithmJavaInteliJ$Main__4_.ic" NAME="Main (4) 커버리지 결과" MODIFIED="1633926914377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AlgorithmJavaInteliJ$Main__3_.ic" NAME="Main (3) 커버리지 결과" MODIFIED="1633924531002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/problem_solve_java$Solution__5_.ic" NAME="Solution (5) 커버리지 결과" MODIFIED="1644848042662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmJavaInteliJ$Main__5_.ic" NAME="Main (5) 커버리지 결과" MODIFIED="1632657604609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
