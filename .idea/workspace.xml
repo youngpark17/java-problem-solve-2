@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a8f810-1c34-4a66-9d0f-69541ca7eb48" name="test3" comment="Programmers_최고의 집합 LV3&#10;구현">
+    <list default="true" id="87a8f810-1c34-4a66-9d0f-69541ca7eb48" name="test3" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -88,38 +88,38 @@
       <command value="Solution" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Programmers_모두 0으로 만들기" />
+      <module name="Programmers_[1차]셔틀버스" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Programmers_단어 변환" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Programmers_리틀 프렌즈 사천성" />
+      <module name="Programmers_보행자 천국" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Programmers_광고 삽입" />
+    <configuration name="myCode (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myCode" />
+      <module name="Line5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Programmers_표 편집" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Programmers_징검다리 건너기" />
+    <configuration name="myCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myCode" />
+      <module name="Line2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,19 +138,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.myCode" />
+      <item itemvalue="Application.myCode (3)" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.myCode (3)" />
+        <item itemvalue="Application.myCode" />
       </list>
     </recent_temporary>
   </component>
@@ -226,35 +226,7 @@
       <workItem from="1632826553957" duration="2363000" />
       <workItem from="1632920866040" duration="13436000" />
       <workItem from="1646049473604" duration="13826000" />
-      <workItem from="1646310180040" duration="39583000" />
-    </task>
-    <task id="LOCAL-00007" summary="BOJ_2638 치즈 골드4&#10;bfs">
-      <created>1631193573620</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1631193573620</updated>
-    </task>
-    <task id="LOCAL-00008" summary="BOJ_2293 동전1 실버1&#10;동적계획법">
-      <created>1631276287452</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1631276287452</updated>
-    </task>
-    <task id="LOCAL-00009" summary="docs: Readme.md">
-      <created>1631276414018</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1631276414018</updated>
-    </task>
-    <task id="LOCAL-00010" summary="BOJ_11497 통나무 건너뛰기 실버1&#10;그리디">
-      <created>1631279074865</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1631279074866</updated>
+      <workItem from="1646310180040" duration="61992000" />
     </task>
     <task id="LOCAL-00011" summary="docs: Readme.md">
       <created>1631279213153</created>
@@ -571,7 +543,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646745331389</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Programmers_모두 0으로 만들기 LV3&#10;트리탐색">
+      <created>1646749045873</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1646749045873</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Programmers_이중우선순위큐 LV3&#10;힙">
+      <created>1646798942551</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1646798942551</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Programmers_[1차]셔틀버스 LV3&#10;구현">
+      <created>1646920222786</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1646920222786</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Programmers_단어 변환 LV3&#10;bfs dfs">
+      <created>1647004100361</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1647004100361</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,10 +610,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="BOJ_15686 치킨게임 골드5&#10;완전탐색" />
-    <MESSAGE value="BOJ_1504 특정한 최단 경로 &#10;다엑스트라" />
-    <MESSAGE value="BOJ 15961 회전 초밥 골드4&#10;투포인터" />
-    <MESSAGE value="BOJ_3671 산업 스파이의 편지 골드 4&#10;완탐, 소수 찾기" />
     <MESSAGE value="BOJ 1240 노드 사이의 거리 골드4&#10;bfs" />
     <MESSAGE value="BOJ_1461 도서관 골드5&#10;그리디 알고리즘" />
     <MESSAGE value="BOJ_1027 고층 건물 골드4&#10;브루트 포스, 기하학" />
@@ -635,7 +631,11 @@
     <MESSAGE value="Programmers_광고삽입 LV3&#10;누적합" />
     <MESSAGE value="Programmers_표 편집 LV3&#10;구현" />
     <MESSAGE value="Programmers_징검다리 건너기 LV3&#10;이분탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers_징검다리 건너기 LV3&#10;이분탐색" />
+    <MESSAGE value="Programmers_모두 0으로 만들기 LV3&#10;트리탐색" />
+    <MESSAGE value="Programmers_이중우선순위큐 LV3&#10;힙" />
+    <MESSAGE value="Programmers_[1차]셔틀버스 LV3&#10;구현" />
+    <MESSAGE value="Programmers_단어 변환 LV3&#10;bfs dfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers_단어 변환 LV3&#10;bfs dfs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -820,6 +820,31 @@
           <url>file://$PROJECT_DIR$/Programmers_모두 0으로 만들기/src/Solution.java</url>
           <line>31</line>
           <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers_이중우선순위큐/src/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Line5/src/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers_[1차]셔틀버스/src/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers_보행자 천국/src/Solution.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers_보행자 천국/src/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
